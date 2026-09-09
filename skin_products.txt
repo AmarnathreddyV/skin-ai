@@ -1,0 +1,126 @@
+SKIN TYPE: DRY
+
+Characteristics:
+- Skin often feels tight after washing.
+- May have flaky or rough areas.
+- Usually benefits from richer moisturizing products.
+
+Recommended ingredients:
+- Hyaluronic acid
+- Ceramides
+- Glycerin
+- Squalane
+
+Product recommendations:
+
+PRODUCT: CeraVe Hydrating Cleanser
+CATEGORY: Cleanser
+SUITABLE FOR: Dry, Normal, Sensitive
+KEY INGREDIENTS: Ceramides, Hyaluronic Acid
+BENEFITS: Gentle cleansing and helps support the skin barrier.
+TEXTURE: Creamy
+USAGE: Use morning and evening.
+
+PRODUCT: CeraVe Moisturizing Cream
+CATEGORY: Moisturizer
+SUITABLE FOR: Dry, Normal
+KEY INGREDIENTS: Ceramides, Hyaluronic Acid
+BENEFITS: Provides long-lasting hydration and supports the skin barrier.
+TEXTURE: Cream
+USAGE: Apply after cleansing.
+
+---
+
+SKIN TYPE: OILY
+
+Characteristics:
+- Skin tends to produce excess oil.
+- Face may look shiny during the day.
+- Lightweight products are often preferred.
+
+Recommended ingredients:
+- Niacinamide
+- Hyaluronic acid
+- Salicylic acid
+
+Product recommendations:
+
+PRODUCT: CeraVe Foaming Facial Cleanser
+CATEGORY: Cleanser
+SUITABLE FOR: Oily, Combination
+KEY INGREDIENTS: Ceramides, Hyaluronic Acid
+BENEFITS: Cleanses excess oil while supporting the skin barrier.
+TEXTURE: Foaming
+USAGE: Use morning and evening.
+
+---
+
+SKIN TYPE: COMBINATION
+
+Characteristics:
+- Some areas may be oily while others are normal or dry.
+- T-zone may become oily while cheeks remain relatively dry.
+
+Recommended ingredients:
+- Niacinamide
+- Hyaluronic acid
+- Ceramides
+
+Product recommendations:
+
+PRODUCT: Lightweight Gel Moisturizer
+CATEGORY: Moisturizer
+SUITABLE FOR: Combination, Oily
+KEY INGREDIENTS: Hyaluronic Acid, Niacinamide
+BENEFITS: Lightweight hydration.
+TEXTURE: Gel
+USAGE: Apply after cleansing.
+
+---
+
+SKIN TYPE: NORMAL
+
+Characteristics:
+- Generally balanced oil and moisture.
+- Usually does not feel excessively dry or oily.
+
+Recommended ingredients:
+- Hyaluronic acid
+- Ceramides
+- Glycerin
+
+Product recommendations:
+
+PRODUCT: CeraVe Daily Moisturizing Lotion
+CATEGORY: Moisturizer
+SUITABLE FOR: Normal, Dry
+KEY INGREDIENTS: Ceramides, Hyaluronic Acid
+BENEFITS: Daily hydration and barrier support.
+TEXTURE: Lotion
+USAGE: Apply after cleansing.
+
+---
+
+SKIN TYPE: SENSITIVE
+
+Characteristics:
+- May become irritated easily.
+- May experience redness or discomfort with some products.
+
+Recommended ingredients:
+- Ceramides
+- Glycerin
+- Hyaluronic acid
+
+Product recommendations:
+
+PRODUCT: Gentle Fragrance-Free Moisturizer
+CATEGORY: Moisturizer
+SUITABLE FOR: Sensitive, Normal, Dry
+KEY INGREDIENTS: Ceramides, Glycerin
+BENEFITS: Gentle moisturization.
+TEXTURE: Cream
+USAGE: Apply after cleansing.
+
+IMPORTANT:
+If the user reports severe irritation, swelling, significant pain, infection-like symptoms, or a serious reaction, do not recommend products as a treatment. Recommend consulting a qualified healthcare professional.
